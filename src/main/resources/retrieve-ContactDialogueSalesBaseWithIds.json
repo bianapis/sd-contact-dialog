@@ -1,0 +1,13 @@
+{
+  "productServiceReference" : "PSR78456",
+  "dateTime" : "2018-09-26T05:56:05.007",
+  "employeeBusinessUnitReference" : "EBUR78456",
+  "contactDialogueSalesTaskReference" : "CDSTR47556",
+  "leadOpportunityDescription" : "leadOpportunityDescription",
+  "productServiceSalesMaterial" : "New brochures",
+  "contactDialogueRecordReference" : "CDRR47856",
+  "customerReference" : "CR78456",
+  "contactDialogueRecord" : {},
+  "leadOpportunityReference" : "LOR78456",
+  "contactRecord" : {}
+}

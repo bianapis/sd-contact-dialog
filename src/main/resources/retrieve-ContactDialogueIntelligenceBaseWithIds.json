@@ -1,0 +1,10 @@
+{
+  "customerInsight" : "Customer description",
+  "contactDialogueRecordReference" : "CDRR78965",
+  "contactDialogueIntelligenceTaskReference" : "CDITR78456",
+  "customerReference" : "CR78456",
+  "contactReference" : "4569879875500",
+  "contactDialogueRecord" : {},
+  "customerInsightType" : "detected life event",
+  "contactDialogueLogReference" : "CDLR78569"
+}
